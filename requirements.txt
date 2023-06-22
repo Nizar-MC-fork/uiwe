@@ -1,0 +1,6 @@
+busted==1.0.0
+somesing==5.3.1
+youfailed==5.3.1
+yousuck==5.3.1
+nothingHere==1.0.0
+tryLater==1.0.0
